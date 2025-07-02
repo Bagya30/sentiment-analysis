@@ -1,0 +1,9 @@
+streamlit==1.46.0      # web UI
+pandas==2.2.3          # data handling
+numpy==2.2.6           # required by pandas / scikit-learn
+scikit-learn==1.7.0    # TF-IDF, models
+nltk==3.9.1            # stopwords
+wordcloud==1.9.4       # EDA visual
+matplotlib==3.10.3     # plots
+seaborn==0.13.2        # nicer plots
+joblib==1.5.1          # save / load models
